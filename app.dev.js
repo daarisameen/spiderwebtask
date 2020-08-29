@@ -101,6 +101,8 @@ unclickableoptions();
 
 }
 
+//happy coding
+
 function unclickableoptions(){
     const optionLen = optionContainer.children.length;
     for(let i=0; i<optionLen;i++)
